@@ -26,7 +26,7 @@ pip install beautifulsoup4 requests lxml
 
 python scraper.py
 
-## 📄 **OUTPUT**:
+## 📄 **Output**:
 For each book on the page, the scraper prints:
 
 Title
