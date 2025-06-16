@@ -26,7 +26,7 @@ pip install beautifulsoup4 requests lxml
 
 python scraper.py
 
-📄 **OUTPUT**:
+## 📄 **OUTPUT**:
 For each book on the page, the scraper prints:
 
 Title
@@ -40,7 +40,7 @@ Example output:
 A Light in the Attic - £51.77 - Three/Five
 Tipping the Velvet - £53.74 - Four/Five
 
-🛠 **Tech Stack**
+## 🛠 **Tech Stack**
 Python 3
 
 BeautifulSoup4
@@ -49,7 +49,7 @@ requests
 
 lxml
 
-🔭 **Future Improvements**
+## 🔭 **Future Improvements**
 Add pagination support to scrape all pages
 
 Export data to CSV or JSON
@@ -58,8 +58,8 @@ Scrape additional fields like image URLs and book detail links
 
 Build a user interface for easier interaction
 
-📌 **Notes**
+## 📌 **Notes**
 This is an educational project and does not violate any terms of service. The target website is designed for learning purposes.
 
-🤝 **Contributions**
+## 🤝 **Contributions**
 If you have suggestions or want to contribute improvements, feel free to open an issue or pull request. Feedback is welcome!
